@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jo\\source\\repos\\WebTimeHere\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3F2DEBD-A610-4E43-B651-E85A7C170CD5}|WebTimeHere\\WebTimeHere.csproj|c:\\users\\jo\\source\\repos\\webtimehere\\webtimehere\\model\\date.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3F2DEBD-A610-4E43-B651-E85A7C170CD5}|WebTimeHere\\WebTimeHere.csproj|solutionrelative:webtimehere\\model\\date.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3F2DEBD-A610-4E43-B651-E85A7C170CD5}|WebTimeHere\\WebTimeHere.csproj|c:\\users\\jo\\source\\repos\\webtimehere\\webtimehere\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3F2DEBD-A610-4E43-B651-E85A7C170CD5}|WebTimeHere\\WebTimeHere.csproj|solutionrelative:webtimehere\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Date.cs",
+              "DocumentMoniker": "C:\\Users\\Jo\\source\\repos\\WebTimeHere\\WebTimeHere\\Model\\Date.cs",
+              "RelativeDocumentMoniker": "WebTimeHere\\Model\\Date.cs",
+              "ToolTip": "C:\\Users\\Jo\\source\\repos\\WebTimeHere\\WebTimeHere\\Model\\Date.cs",
+              "RelativeToolTip": "WebTimeHere\\Model\\Date.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T02:26:47.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Jo\\source\\repos\\WebTimeHere\\WebTimeHere\\Model\\User.cs",
+              "RelativeDocumentMoniker": "WebTimeHere\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\Jo\\source\\repos\\WebTimeHere\\WebTimeHere\\Model\\User.cs",
+              "RelativeToolTip": "WebTimeHere\\Model\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T02:09:07.264Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
